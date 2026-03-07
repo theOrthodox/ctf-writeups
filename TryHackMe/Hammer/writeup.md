@@ -29,6 +29,12 @@ Executing as follows :
 ![Modifying list](images/modifying_list)
 So, its now we are ready with the word list to enumerate the directories.
 
+### Enumerating Directories :
+We will be enumerating the directories using the FeroxBuster, due to its fast nature and supports recurssive scanning.
+After successful enumeration we get :
+![Ferox Buster](images/FeroxBuster)
+
+
 
 
 
