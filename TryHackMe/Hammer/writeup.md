@@ -21,6 +21,7 @@ On viewing on the search engine we get a login dashboard as follows :
 ### Source Code 
 It is good practice to analyze the source code , before initiating to sub-domain enumeration, as sometimes we may get clue about the naming convention used by the developer of the directories and sub-domains.
 The Source Code is shows as below :
+![SourceCode](images/source_code_hammer_thm+.png)
 
 
 
