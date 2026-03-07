@@ -273,6 +273,12 @@ So to bypass this we can simply extend expiry of the token and persistenceSessio
 As shown :
 ![changing cookies](images/cookies.png)
 
+Now, our next step is to escalate our privileges so to get the flag.
+For that we should analyze the JWT Token.
+We can get the JWT token from the request send by our burp suite. 
+As shown below:
+
+
 
 
 
