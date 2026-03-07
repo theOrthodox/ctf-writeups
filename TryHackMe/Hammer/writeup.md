@@ -163,8 +163,9 @@ So the list of all the linux commands available are :[linux commands](https://gi
 We will then capture the request command made using BurpSuite and save it as text.
 ![command request](images/command_request.png)
 Now, we have enough for fuzzing. Let's do it :
-![fuzzing](fuzzing.png)
-
+![fuzzing](images/fuzzing.png)
+After doing fuzzing we clearly see that we are only allowed to use single command : 'ls'
+One more thing is that, we get logged out of the dashboard automatically.So again we must see the source code of the web page, which is as follows :
 ```
 
 <!DOCTYPE html>
@@ -256,8 +257,20 @@ $(document).ready(function() {
 </script>
 </body>
 </html>
-
 ```
+The script clearly mentions that, whenever there is a null value in the cookies it logs the user out.To clear things more easily :
+```
+Page loads
+     ↓
+Every 1 second
+     ↓
+Check if cookie "persistentSession" exists
+     ↓
+YES → User stays logged in
+NO  → Redirect to logout.php
+```
+So to bypass this we can simply extend expiry of the token and persistenceSession and set the value of persistenceSession to `yes`. We can do it using the `Developer tool -> Application -> Storage -> cookies`.
+As shown :
 
 
 
