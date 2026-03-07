@@ -38,9 +38,11 @@ We were able to get two interesting directories as underlined in the above image
 2. errors.logs
 The significance of these two is quite unavoidable, because in the login form we donot have any known email address that we can use to break the login page. The plan should be to get any email address so that we can us the forgot password option, and as a good news we get an email address as shown below :
 Interface of "\hmr_logs":
-   ![hmr_logs](images/hmr_logs)
+![hmr_logs](images/hmr_logs)
+
 What we get inside "errors.log" : (its interesting)
 ![hmr_errors](images/hmr_errors)
+
 
 
 
