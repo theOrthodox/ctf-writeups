@@ -8,17 +8,23 @@ Difficulty: Medium
 
 # Let's Solve :
 
+### Nmap Scan
 After getting the IP Address, let's NMAP it to find the services running and the ports opened. 
 And the results are :
-### Nmap Scan
 ![NmapScan](images/nmap_hammer.png.png)
 
-
+### Dashboard
 We notice that, a port : 1337 is open and hosting webpage server. 
 On viewing on the search engine we get a login dashboard as follows :
-
-### Dashboard 
 ![DashBoard](images/dashboard.png)
+
+### Source Code 
+It is good practice to analyze the source code , before initiating to sub-domain enumeration, as sometimes we may get clue about the naming convention used by the developer of the directories and sub-domains.
+The Source Code is shows as below :
+
+
+
+
 
 
 
