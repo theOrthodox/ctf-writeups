@@ -12,7 +12,8 @@ After getting the IP Address, let's NMAP it to find the services running and the
 And the results are :
 ## Nmap Scan
 <\> Markdown
-![Nmap Scan](images/nmap.png)
+![NmapScan](images/nmap_hammer.png)
+
 
 We notice that, a port : 1337 is open and hosting webpage server. 
 On viewing on the search engine we get a login dashboard as follows :
