@@ -279,6 +279,8 @@ We can get the JWT token from the request send by our burp suite.
 As shown below:
 ![JWT TOKEN](images/jwt.png)
 So we can now edit it in the jwt.io(older version) : [jwt.io](https://jwt.lannysport.net/).
+Before edditing, we need to download a key which is available, we saw it once we did `ls`.
+On going to `http:<ip_address>:1337/188ade1.key`, we will get a key : 
 
 
 
