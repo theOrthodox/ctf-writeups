@@ -11,7 +11,7 @@ Let's Solve :
 After getting the IP Address, let's NMAP it to find the services running and the ports opened. 
 And the results are :
 ## Nmap Scan
-![NmapScan](images/nmap_hammer.png)
+![NmapScan](images/nmap_hammer.png.png)
 
 
 We notice that, a port : 1337 is open and hosting webpage server. 
