@@ -292,9 +292,11 @@ Now, we can edit in the jwt.io as mentioned above, and as shown below :
 Next we paste it in our Repeater's request : 
 ![privilege escalation](images/privilege_escalation.png)
 
-SO, ##### Hurray 
+So, Hurray !!! 
 we got an escalation.
 lets see whether we can get the flag.
+And Yess, we got it!!!
+
 
 
 
