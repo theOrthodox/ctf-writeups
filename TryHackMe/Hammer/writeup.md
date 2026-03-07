@@ -19,7 +19,6 @@ We notice that, a port : 1337 is open and hosting webpage server.
 On viewing on the search engine we get a login dashboard as follows :
 
 ## Dashboard 
-<\> Markdown
 ![DashBoard](images/dashboard.png)
 
 
