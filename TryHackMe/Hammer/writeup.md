@@ -68,7 +68,7 @@ Let me present the images which shows how to spoof the ip address uing the X-For
 Now that we have overcome one challenge, in bypassing the rate count in the code recovery form, our next job is to automate the porcess of brute force and that should be within 180 seconds.
 For that, we can write a code in Python or we can surf the internet to get a code or simply use any AI chatbot.
 I surfed and got a code which is as follows :
-`
+```
 import requests
 import random
 import threading
@@ -149,7 +149,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-`
+```
+
 
 
 
