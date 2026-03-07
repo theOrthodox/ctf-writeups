@@ -159,10 +159,7 @@ Now we are at the verge of completing the first task to bypass the login form, a
 
 ### Privelege Escalation 
 In the given dashboard we can enter linux commands, so as to check which are the commands we can run or not, we can brute force it. 
-So the list of all the linux commands available are : [linux commands](linux-fundametals
-/linux commands)
-
-git submodule add https://github.com/theOrthodox/linux-fundametals/blob/main/linux%20commands
+So the list of all the linux commands available are :[linux commands](https://github.com/theOrthodox/linux-fundametals/blob/main/linux%20commands)
 ```
 
 <!DOCTYPE html>
