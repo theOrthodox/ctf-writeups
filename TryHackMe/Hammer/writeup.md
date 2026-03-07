@@ -296,6 +296,7 @@ So, Hurray !!!
 we got an escalation.
 lets see whether we can get the flag.
 And Yess, we got it!!!
+![flat.txt](images/flag.png)
 
 
 
