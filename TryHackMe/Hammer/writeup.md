@@ -75,7 +75,7 @@ import threading
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-url = "http://10.48.186.58:1337/reset_password.php"
+url = "http://<ip_address>:1337/reset_password.php"
 num_threads = 50
 stop_flag = threading.Event()
 
@@ -150,7 +150,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
+In the above code, we only need to update the ip_address of our machine.
+On running the code :`python3 brute.py`. We are able to bypass the password reset page and also we have changed the password to : `Password123`.
 
 
 
