@@ -27,6 +27,7 @@ So to enumerate the directories we need to first have the wordlist with the modi
 We will modify the word list : sed `'s/^/hmr/' words.txt > new_words.txt`.
 Executing as follows :
 ![Modifying list](images/modifying_list)
+So, its now we are ready with the word list to enumerate the directories.
 
 
 
