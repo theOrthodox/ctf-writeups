@@ -10,8 +10,9 @@ Let's Solve :
 
 After getting the IP Address, let's NMAP it to find the services running and the ports opened. 
 And the results are :
-</>markdown
-![Nmap Scan](images/nmap.png
+</> Markdown
+## Nmap Scan
+![Nmap Scan](images/nmap.png)
 
 
 
