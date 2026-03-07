@@ -61,9 +61,9 @@ Using this in the header we can simply bypass the counting for an ipaddress, we 
 There are other Header too for IP Spoofing, which you can check it out from [owasp.org](https://owasp.org/www-community/pages/attacks/ip_spoofing_via_http_headers).
 Let me present the images which shows how to spoof the ip address uing the X-Forwarded-For.
 1st image shows the usage of the X-Forwarded-For usage.(shown below)
-![ip_spoofing](images/ip_spoofing_1)
+![ip_spoofing](images/ip_spoofing_1.png)
 2nd image shows the usage of the new ip and in response to it gets a new rate count.
-![ip_spoofing](images/ip_spoofing_2)
+![ip_spoofing](images/ip_spoofing_2.png)
 
 
 
