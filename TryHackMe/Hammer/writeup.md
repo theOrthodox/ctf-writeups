@@ -50,6 +50,7 @@ We will be using it for the Authentication Bypass.
 We first need to analyze the login form (mostly the forgot password), we then be able to get an idea about how the password reset works.
 The Forgot Password page looks somethng like this :
 ![Forgot Password](images/forgot_hammer.png)
+On entering 
 
 
 
