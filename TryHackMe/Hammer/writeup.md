@@ -24,8 +24,10 @@ The Source Code is shows as below :
 ![SourceCode](images/source_code_hammer_thm)
 The source clearly states that the conventions for the sub-domains is : hmr_Directory_Name. Which means that , every dirctory listed will start with "hmr_".
 So to enumerate the directories we need to first have the wordlist with the modification as required.
-We will modify the word list : sed `'s/^/hmr/' words.txt > new_words.txt`
-<img width="646" height="272" alt="image" src="https://github.com/user-attachments/assets/5253b7dc-3055-4db1-9bb0-4fa47eba4cc4" />
+We will modify the word list : sed `'s/^/hmr/' words.txt > new_words.txt`.
+Executing as follows :
+![Modifying list](images/modifying_list)
+
 
 
 
