@@ -277,6 +277,9 @@ Now, our next step is to escalate our privileges so to get the flag.
 For that we should analyze the JWT Token.
 We can get the JWT token from the request send by our burp suite. 
 As shown below:
+![JWT TOKEN](images/jwt)
+So we can now edit it in the jwt.io(older version) : [jwt.io](https://jwt.lannysport.net/).
+
 
 
 
