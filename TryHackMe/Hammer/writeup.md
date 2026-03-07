@@ -56,9 +56,11 @@ And it looks something like this :
 ![Recovery Code](images/forgot_time.png)
 One thing to notice is that we are required to enter the recovery code within 180 seconds , which means if we are trying brute force then we have to do it within 180 seconds.
 One more thing to mention is that, the recovery code form allows us to take 9 attempts only, which means that using an ip address we can only atttempt for 9 times.
-We can bypass thing mechanim using : `X-Forwarded-For: <random_ip_address>`.
+We can bypass this mechanism using : `X-Forwarded-For: <random_ip_address>`.
 Using this in the header we can simply bypass the counting for an ipaddress, we just need to change the ip address before we reach the 9th attempt.
-There are other Header too for IP Spoofing, which you can check it out from [owasp.org](https://owasp.org/www-community/pages/attacks/ip_spoofing_via_http_headers)
+There are other Header too for IP Spoofing, which you can check it out from [owasp.org](https://owasp.org/www-community/pages/attacks/ip_spoofing_via_http_headers).
+Let me present the images which shows how to spoof the ip address uing the X-Forwarded-For.
+
 
 
 
