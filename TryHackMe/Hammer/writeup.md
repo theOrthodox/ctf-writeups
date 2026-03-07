@@ -162,7 +162,7 @@ In the given dashboard we can enter linux commands, so as to check which are the
 So the list of all the linux commands available are : [linux commands](linux-fundametals
 /linux commands)
 
-git submodule add https://github.com/user/source-repo.git external/source-repo
+git submodule add https://github.com/theOrthodox/linux-fundametals/blob/main/linux%20commands
 ```
 
 <!DOCTYPE html>
