@@ -58,6 +58,8 @@ One thing to notice is that we are required to enter the recovery code within 18
 One more thing to mention is that, the recovery code form allows us to take 9 attempts only, which means that using an ip address we can only atttempt for 9 times.
 We can bypass thing mechanim using : `X-Forwarded-For: <random_ip_address>`.
 Using this in the header we can simply bypass the counting for an ipaddress, we just need to change the ip address before we reach the 9th attempt.
+There are other Header too for IP Spoofing, which you can check it out from the https://owasp.org/www-community/pages/attacks/ip_spoofing_via_http_headers.
+
 
 
 
