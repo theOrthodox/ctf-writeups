@@ -271,6 +271,7 @@ NO  → Redirect to logout.php
 ```
 So to bypass this we can simply extend expiry of the token and persistenceSession and set the value of persistenceSession to `yes`. We can do it using the `Developer tool -> Application -> Storage -> cookies`.
 As shown :
+![changing cookies](images/cookies.png)
 
 
 
