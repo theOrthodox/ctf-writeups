@@ -157,6 +157,105 @@ On running the code :`python3 brute.py`. We are able to bypass the password rese
 Now we are at the verge of completing the first task to bypass the login form, and we are successful at that. 
 ![dashboard](images/dashboard_login.png)
 
+### Privelege Escalation 
+In the given dashboard we can enter linux commands, so as to check which are the commands we can run or not, we can brute force it. 
+So the list of all the linux commands available are :
+
+
+```
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="/hmr_css/bootstrap.min.css" rel="stylesheet">
+    <script src="/hmr_js/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            background: url('/hmr_images/hammer.webp') no-repeat center center fixed;
+            background-size: cover;
+        }
+        .container {
+            position: relative;
+            z-index: 10; /* Make sure the content is above the background */
+            background-color: rgba(255, 255, 255, 0.8); /* Slight white background for readability */
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+	
+	    <script>
+       
+        function getCookie(name) {
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; ${name}=`);
+            if (parts.length === 2) return parts.pop().split(';').shift();
+        }
+
+      
+        function checkTrailUserCookie() {
+            const trailUser = getCookie('persistentSession');
+            if (!trailUser) {
+          
+                window.location.href = 'logout.php';
+            }
+        }
+
+       
+        setInterval(checkTrailUserCookie, 1000); 
+    </script>
+
+</head>
+<body>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h3>Welcome, Thor! - Flag: THM{AuthBypass3D}</h3>
+            <p>Your role: user</p>
+            
+            <div>
+                <input type="text" id="command" class="form-control" placeholder="Enter command">
+                <button id="submitCommand" class="btn btn-primary mt-3">Submit</button>
+                <pre id="commandOutput" class="mt-3"></pre>
+            </div>
+            
+            <a href="logout.php" class="btn btn-danger mt-3">Logout</a>
+        </div>
+    </div>
+</div>
+
+<script>
+$(document).ready(function() {
+    $('#submitCommand').click(function() {
+        var command = $('#command').val();
+        var jwtToken = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6Ii92YXIvd3d3L215a2V5LmtleSJ9.eyJpc3MiOiJodHRwOi8vaGFtbWVyLnRobSIsImF1ZCI6Imh0dHA6Ly9oYW1tZXIudGhtIiwiaWF0IjoxNzcyOTEyMTI2LCJleHAiOjE3NzI5MTU3MjYsImRhdGEiOnsidXNlcl9pZCI6MSwiZW1haWwiOiJ0ZXN0ZXJAaGFtbWVyLnRobSIsInJvbGUiOiJ1c2VyIn19.KAf1sL3KvOEnL348R-q2TphoxR8ZH_9K7iTGLz47F9A';
+
+        // Make an AJAX call to the server to execute the command
+        $.ajax({
+            url: 'execute_command.php',
+            method: 'POST',
+            data: JSON.stringify({ command: command }),
+            contentType: 'application/json',
+            headers: {
+                'Authorization': 'Bearer ' + jwtToken
+            },
+            success: function(response) {
+                $('#commandOutput').text(response.output || response.error);
+            },
+            error: function() {
+                $('#commandOutput').text('Error executing command.');
+            }
+        });
+    });
+});
+</script>
+</body>
+</html>
+
+```
+
 
 
 
