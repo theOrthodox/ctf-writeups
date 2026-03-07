@@ -43,6 +43,10 @@ Interface of "\hmr_logs":
 What we get inside "errors.log" : (its interesting)
 ![hmr_errors](images/hmr_errors)
 
+Now , we have an email address : tester@hammer.thm.
+We will be using it for the Authentication Bypass.
+
+
 
 
 
