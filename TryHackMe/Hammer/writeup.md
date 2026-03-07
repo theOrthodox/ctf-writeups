@@ -33,6 +33,8 @@ So, its now we are ready with the word list to enumerate the directories.
 We will be enumerating the directories using the FeroxBuster, due to its fast nature and supports recurssive scanning.
 After successful enumeration we get :
 ![Ferox Buster](images/FerroxOxide)
+We were able to get two interesting directories as underlined in the above image. They are :
+1. logs.
 
 
 
