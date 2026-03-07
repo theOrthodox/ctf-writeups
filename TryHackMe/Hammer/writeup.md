@@ -152,6 +152,8 @@ if __name__ == "__main__":
 ```
 In the above code, we only need to update the ip_address of our machine.
 On running the code :`python3 brute.py`. We are able to bypass the password reset page and also we have changed the password to : `Password123`.
+![password_reset](images/Password_reset.png)
+
 
 
 
