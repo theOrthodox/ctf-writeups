@@ -1,4 +1,4 @@
-Platform: TryHackMe
+Platform: TryHackMe 
 Room: Hammer
 Difficulty: Medium
 
