@@ -9,3 +9,4 @@ Which is `ssh -p <port_number> username@<hostname or ipaddress>`
 ![1st step](images/level0101.png)
 ![2nd step](images/level0102.png)
 ![3rd step](images/level0103.png)
+So, here we recovered a key, which may be useful in the other level.
