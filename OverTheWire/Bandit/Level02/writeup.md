@@ -9,4 +9,4 @@ The contents of this directory has a file named : `--spaces in this filename--`,
 by simply using `cat` command followed by the file name will ressult an error. 
 So to retrieve a file contents which has spaces and hyphens, we must use `--` and `" "`.
 `cat -- "--spaces in this filename--"`
-![contents of file](images/password_lvl_03.png).
+![contents of file](images/passoword_lvl_03.png).
