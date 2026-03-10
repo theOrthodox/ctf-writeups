@@ -8,4 +8,4 @@ Now, after login, we need to move towards the goal.
 There we see something peculiar, that was the `-` file. We cannot retrieve the content of the `-` file, using the normal `cat -` command, because linux will treat it as `stdin`.
 So, to solve this problem we can, simply do : `cat ./-`. Which can be interpreted as : `cat current_directory/-`, which is path to a file named `-`.
 So now , it will not treat `-` as stdin, because its now a path.
-![retrieving dash file](images/password_lvl_02.png).
+![retrieving dash file](images/passowrd_lvl_02.png).
