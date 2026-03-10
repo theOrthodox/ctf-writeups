@@ -10,3 +10,4 @@ by simply using `cat` command followed by the file name will ressult an error.
 So to retrieve a file contents which has spaces and hyphens, we must use `--` and `" "`.
 `cat -- "--spaces in this filename--"`
 ![contents of file](images/passoword_lvl_03.png).
+Hence, we retrieved the password for the next level.
