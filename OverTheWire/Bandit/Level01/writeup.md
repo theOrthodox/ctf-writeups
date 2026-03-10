@@ -11,5 +11,6 @@ So, to solve this problem we can, simply do : `cat ./-`. Which can be interprete
 So now , it will not treat `-` as stdin, because its now a path.
 
 ![retrieving dash file](images/passowrd_lvl_02.png).
+
 We now have a password, which will be helpful, for the next level.
 
