@@ -5,4 +5,6 @@ human-readable
 1033 bytes in size
 not executable
 ## Solve
+After the successful login, in this level. Using the password, retrieved from the previous level.
+![login](images/login_level_05.png)
 
