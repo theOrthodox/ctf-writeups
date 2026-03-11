@@ -1,7 +1,9 @@
 # Natas Level 00
 ## Credentials 
 Username: natas0
+
 Password: natas0
+
 URL:      http://natas0.natas.labs.overthewire.org
 ## Aim
 To find the password of the next level
