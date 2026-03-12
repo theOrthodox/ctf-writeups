@@ -17,7 +17,7 @@ We are examining to what happens when we are clicking the refresh button.
 The following requests come to vision :
 <img width="1799" height="641" alt="natas19" src="https://github.com/user-attachments/assets/85147be0-0f04-4147-8922-a0305819252d" />
 The image above highlights that in the `Request`, that has a `Referer` header and is updated with the URL : `http://natas4.natas.labs.overthewire.org/`.
-**To understand about Referer Header, you can visit : ![Header : Referer](Level04/header-Referer.md)
+**To understand about Referer Header, you can visit : [Header : Referer](Level04/header-Referer.md)
 
 
 
