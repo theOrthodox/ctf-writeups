@@ -18,9 +18,11 @@ There we found a directory in the source code.As shown below:
 We moved to the new directory found to find the contents of it.
 As shown below :
 <img width="959" height="343" alt="image" src="https://github.com/user-attachments/assets/da832a48-4171-4337-a9c0-26b19f84791b" />
-Here, we have an interesting file named : `user.txt`
+Here, we have an interesting file named : `users.txt`.
+On opening the file, we get usernames and password of various other users.
 <img width="957" height="305" alt="image" src="https://github.com/user-attachments/assets/2abcf9c8-2f62-4825-880b-d4cd1c692882" />
-
+Hence, we found the password for the next level. 
+The level is complete!!!
 
 
 
