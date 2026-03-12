@@ -1,6 +1,7 @@
 # Natas Level 04
 ## Credentials 
 username : natas4
+
 password : solve the previous level to have the password
 URL :      http://natas4.natas.labs.overthewire.org/
 ## Aim
@@ -18,6 +19,15 @@ The following requests come to vision :
 <img width="1799" height="641" alt="natas19" src="https://github.com/user-attachments/assets/85147be0-0f04-4147-8922-a0305819252d" />
 The image above highlights that in the `Request`, that has a `Referer` header and is updated with the URL : `http://natas4.natas.labs.overthewire.org/`.
 **To understand about Referer Header, you can visit : [Header : Referer](header-Referer.md)
+So, the hint given in the web page, now makes sense.
+Lets try by sending the `Request` with the `URL : http://natas5.natas.labs.overthewire.org/`.
+<img width="613" height="297" alt="image" src="https://github.com/user-attachments/assets/9f5a7e04-870d-4139-bc16-27fd484f94e4" />
+We get the fotunate response.
+We get the access of the password for the next level.
+<img width="933" height="282" alt="natas21" src="https://github.com/user-attachments/assets/39a313fb-5b54-42a9-b935-c90c9eeb23c4" />
+Hence, Level Complete !!!
+
+
 
 
 
