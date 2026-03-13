@@ -7,4 +7,3 @@ URL : http://natas6.natas.labs.overthewire.org/
 To find the password of the next level.
 ## Solve
 The presents us the login form, asking username and password.As shown below :
-
