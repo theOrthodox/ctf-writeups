@@ -31,7 +31,7 @@ if($key != "") {
 We understand that , `; | & ` will be blocked and we cannot use them for injection, but except for that we can use anything.
 We are going to use the `Regex`.
 ```
-#  Regex Cheat Sheet (CTF / Pentesting Focus)
+#  Regex Cheat Sheet
 
 ##  Core Regex Patterns
 
@@ -73,7 +73,7 @@ We are going to use the `Regex`.
 
 ---
 
-## 🎯 Golden Rule
+##  Golden Rule
 
 > If your pattern doesn't match → no output  
 > If your pattern matches everything → full output  
