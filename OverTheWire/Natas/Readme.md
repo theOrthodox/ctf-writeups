@@ -35,4 +35,3 @@ Each level provides:
 
 ---
 
-# 📂 Structure
