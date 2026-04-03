@@ -34,4 +34,5 @@ Each level provides:
 - 🌐 HTTP request tampering  
 
 ---
-
+⚠️ This repository is for educational purposes only.
+Passwords and sensitive data have been removed.
