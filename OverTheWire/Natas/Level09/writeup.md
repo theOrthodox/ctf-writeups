@@ -29,13 +29,14 @@ if($key != "") {
 ```
 The logic here, is that :
 
-**
+```
 The code first checks whether the user has sent a parameter named "needle" using the $_REQUEST superglobal.
 If it exists, its value is stored in the variable $key.
 Then it checks whether $key is not empty.
 If it is not empty, the passthru() function executes a Linux shell command (grep -i) using the user input and prints the output from dictionary.txt.
 The vulnerability is that the user input ($key) is directly inserted into the shell command without any sanitization, which can lead to command injection.
-**
+```
+
 Now we will exploit this vulnerability, as shown below : (we know that from level 07 that in "natas/wep_pass/natas<level>" , stores the password for the level)
 We used the command `;cat natas/web_pass/natas10`, and we get the password as shown below :
 
