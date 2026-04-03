@@ -15,3 +15,23 @@ On correct credentials we get a web page as shown below :
 
 Now lets analyze the source code : 
 
+<img width="955" height="591" alt="Screenshot 2026-04-03 000236" src="https://github.com/user-attachments/assets/a3933ae2-f629-420e-9d12-8f14a44314df" />
+
+The logic :
+```
+if(array_key_exists("needle,$_REQUEST)) {
+    $key = $_REQUEST["needle"];
+}
+
+if($key != "") {
+    passthru("grep -i $key dictionary.txt");
+}
+```
+The logic here, is that :
+**The code first checks whether the user has sent a parameter named "needle" using the $_REQUEST superglobal.
+If it exists, its value is stored in the variable $key.
+Then it checks whether $key is not empty.
+If it is not empty, the passthru() function executes a Linux shell command (grep -i) using the user input and prints the output from dictionary.txt.
+The vulnerability is that the user input ($key) is directly inserted into the shell command without any sanitization, which can lead to command injection.
+**
+Now we will exploit this vulnerability, as shown below : (we know that from level 07 that 
