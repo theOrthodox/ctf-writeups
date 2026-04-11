@@ -13,5 +13,6 @@ Here, we have our file which has the traffic, named : `challenge.eml`
 So, after opening it we were able to answer the first question, by reading the subject of the e-mail.
 
 `Question`
-** What is the Transfer Reference Number listed in the email's Subject line? **
+What is the Transfer Reference Number listed in the email's Subject line?
+`Answer`
 <img width="1446" height="625" alt="Screenshot 2026-04-11 205836" src="https://github.com/user-attachments/assets/7bc8eb34-f19b-45d0-9b49-690f733845ee" />
