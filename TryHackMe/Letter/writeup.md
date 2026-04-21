@@ -65,9 +65,18 @@ Audette”
 ```
 There are few things to note from the text above :
 1. reciever's first name :  **Édouard**
-2. sender's first name : **Audette”**
+2. sender's first name : **Audette**
 3. the reciever's grandfather had done something heroic, at a very young age, and he was the **youngest member** in his team.
 4. The language of the text is French.
+
+Now lets move to newspaper cutting. The image is quite blury but the name of the newspaper and its headings is readable. So to sum up the findings :
+Name of the Newspaper : `L'Ouest-Eclair`
+Headline : ***“M Herriot se déclare solidaire de M Painlevé”***
+We can use this information to get the digital version of the newspaper for better readability.
+There is a website named (gallica.bnf)[https://gallica.bnf.fr], is the online digital library of the Bibliothèque nationale de France (BnF).  It is a massive archive where we can access historical and cultural documents for free.
+There I found the newspaper in a better readable format : (redable newspaper)[https://gallica.bnf.fr/ark:/12148/bpt6k5848808/f1.item.r=%22M%20Herriot%20se%20DECLARE%20SOLIDAIRE%20DE%20M%20PAINLEVE%22#]
+Now, we can clearly see a section 
+  
 
 
 
