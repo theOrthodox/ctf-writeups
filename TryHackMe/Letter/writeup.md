@@ -52,13 +52,24 @@ English translation:
 
 “My dear Édouard,
 
-Today, while tidying the attic at my grandparents’ house, I came across this old newspaper clipping. Your great-grandfather wasn’t even old enough to get his driver’s license when he distinguished himself that day—the youngest member of the team, and certainly not the least courageous.
+Today, while tidying the attic at my grandparents’ house,
+I came across this old newspaper clipping.
+Your great-grandfather wasn’t even old enough to get his driver’s license
+when he distinguished himself that day—the youngest member of the team,
+and certainly not the least courageous.
 
 He would be so proud to see you out on the water in your turn.
 
 With all my affection,
 Audette”
 ```
+There are few things to note from the text above :
+1. reciever's first name :  **Édouard**
+2. sender's first name : **Audette”**
+3. the reciever's grandfather had done something heroic, at a very young age, and he was the **youngest member** in his team.
+4. The language of the text is French.
+
+
 
 
 
