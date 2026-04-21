@@ -45,6 +45,22 @@ Audette
 ```
 `text document `
 
+Now, 1st we need to gather as much as information we can gather. Which will help us to connect the dots and answer the questions.
+Lets first translate the text document in english :
+```
+English translation:
+
+“My dear Édouard,
+
+Today, while tidying the attic at my grandparents’ house, I came across this old newspaper clipping. Your great-grandfather wasn’t even old enough to get his driver’s license when he distinguished himself that day—the youngest member of the team, and certainly not the least courageous.
+
+He would be so proud to see you out on the water in your turn.
+
+With all my affection,
+Audette”
+```
+
+
 
  
  
