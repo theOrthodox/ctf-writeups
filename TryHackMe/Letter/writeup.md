@@ -75,9 +75,56 @@ Headline : ***“M Herriot se déclare solidaire de M Painlevé”***
 We can use this information to get the digital version of the newspaper for better readability.
 There is a website named [gallica.bnf](https://gallica.bnf.fr/accueil/en/html/accueil-en), is the online digital library of the Bibliothèque nationale de France (BnF).  It is a massive archive where we can access historical and cultural documents for free.
 There I found the newspaper in a better readable format : [redable newspaper](https://gallica.bnf.fr/ark:/12148/bpt6k5848808/f1.item.r=%22M%20Herriot%20se%20DECLARE%20SOLIDAIRE%20DE%20M%20PAINLEVE%22#)
-Now, we can clearly see a lot of information in front of us :
 
-  
+Now, we can clearly see a lot of information in front of us :
+1. date of the newspaper : 24 May 1925
+2. The headline that matches with the note provided earlier :
+   ```
+   in French :
+   “Une catastrophe sur les côtes du Finistère” translates to:
+   Translated version :
+   “A disaster on the coast of Finistère.”
+   ```
+From the above points its very much clear that the incident happened at the coast of Finistère.
+So, now our next target should be where is Finistère.
+```
+Finistère is a coastal department in northwestern France,
+located in the region of Brittany (called Bretagne in French).
+```
+We have discovered the department, and its `Finistère`, whose postal codes starts with 29. To be more accurate we need to find the town. There are total of : 277 towns/communes in Finistère.
+Lets dig more to get any clue.
+The sub heading says somethig more : 
+```
+in French :
+Deux Bateaux De Peche en Perdition Et Deux canots de sauvetage sombrent au large de penmarch
+
+translation :
+“Two fishing boats in distress and two lifeboats sink off the coast of Penmarch.”
+
+```
+We got a new place : `Penmarch`, which is indeed a commune n Finistère, located in the region of Brittany.
+It’s a coastal commune, known for its lighthouse, Phare d'Eckmühl, and its fishing heritage. 
+And now, lets move to envelope.
+The stamp says : `La Poste` 
+And the reciever's first name is : `Edouard`
+We see an initialism : `SNSM` , whoes full form is :
+`SNSM` stands for `Société Nationale de Sauvetage en Mer`.
+In English, it means `“National Society for Sea Rescue.”`
+It’s a French volunteer organization responsible for:
+rescuing people at sea
+assisting ships in distress
+providing coastal safety and lifeguard services
+
+So its very much clear that, the reciever is a volunteer in `SNSM`.
+Now, its very much clear now that the person named ` Édouard` is a volunteer in a rescue team named `SNSM`, and is now posted in the coastal areas thats why the whole letter is wet by now, the note mention that his grandfather was a part of a rescue team in Penmarch in Finistère, France.
+So its very much likely that his grandson is at the same town
+
+We hit the first question,
+#### The postal code for Penmarch in Finistère, France is:
+**29760**
+
+
+
 
 
 
