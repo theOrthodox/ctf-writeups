@@ -144,7 +144,7 @@ And in it, we come accross the list of crew members, and we found the youngest c
 <img width="1391" height="847" alt="image" src="https://github.com/user-attachments/assets/0949ba6a-43dd-4aba-a78b-a89233944ac3" />
 
 Now, we need to just create the flag and submit it :
-which will be `THM{Yves-Marie_Gourlaouen_15}, and there we get the flag.
+which will be `THM{Yves-Marie_Gourlaouen_15}`, and there we get the flag.
 Challenge completed !!!
 
 <img width="567" height="95" alt="image" src="https://github.com/user-attachments/assets/f4bafbdc-fb1f-4dfe-8c5d-943088938c22" />
