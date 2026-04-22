@@ -106,9 +106,11 @@ We got a new place : `Penmarch`, which is indeed a commune n Finistère, located
 It’s a coastal commune, known for its lighthouse, Phare d'Eckmühl, and its fishing heritage. 
 And now, lets move to envelope.
 The stamp says : `La Poste` 
-And the reciever's first name is : `Edouard`
+And the reciever's first name is : `Edouard`.
+
 We see an initialism : `SNSM` , whoes full form is :
 `SNSM` stands for `Société Nationale de Sauvetage en Mer`.
+
 In English, it means `“National Society for Sea Rescue.”`
 It’s a French volunteer organization responsible for:
 rescuing people at sea
@@ -117,11 +119,38 @@ providing coastal safety and lifeguard services
 
 So its very much clear that, the reciever is a volunteer in `SNSM`.
 Now, its very much clear now that the person named ` Édouard` is a volunteer in a rescue team named `SNSM`, and is now posted in the coastal areas thats why the whole letter is wet by now, the note mention that his grandfather was a part of a rescue team in Penmarch in Finistère, France.
-So its very much likely that his grandson is at the same town
+So its very much likely that his grandson is at the same town.
 
 We hit the first question,
 #### The postal code for Penmarch in Finistère, France is:
 **29760**
+---
+Now, the next question asks us to find out the name of the great grandfather of the reciever.
+We have pretty hints on him.
+1. date of incident : 23 May 1925
+2. date of reporting : 24 May 1925
+3. Place : Penmarch in Finistère, France
+4. a descriptive identifier within a group : youngest member
+
+So with the above information I google Dorked, I found something interesting :
+
+<img width="1043" height="537" alt="image" src="https://github.com/user-
+attachments/assets/04ca6f82-9bc9-4cc7-8390-453c12bb0fa3" />
+
+This (URL)[https://kbcpenmarch.franceserv.com/23-mai-1925-5.html] reports the  `DISASTER OF MAY 23, 1925: ADDITIONAL INFORMATION
+THE CEREMONY OF AUGUST 15, 1925`
+(Article from the newspaper "La Dépêche de Brest" of August 16, 1925).
+And in it, we come accross the list of crew members, and we found the youngest crew member too, as shown below.
+
+<img width="1391" height="847" alt="image" src="https://github.com/user-attachments/assets/0949ba6a-43dd-4aba-a78b-a89233944ac3" />
+
+Now, we need to just create the flag and submit it :
+which will be `THM{Yves-Marie_Gourlaouen_15}, and there we get the flag.
+Challenge completed !!!
+
+<img width="567" height="95" alt="image" src="https://github.com/user-attachments/assets/f4bafbdc-fb1f-4dfe-8c5d-943088938c22" />
+
+
 
 
 
