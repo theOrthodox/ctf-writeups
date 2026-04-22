@@ -73,7 +73,7 @@ Now lets move to newspaper cutting. The image is quite blury but the name of the
 Name of the Newspaper : `L'Ouest-Eclair`
 Headline : ***“M Herriot se déclare solidaire de M Painlevé”***
 We can use this information to get the digital version of the newspaper for better readability.
-There is a website named [gallica.bnf](https://gallica.bnf.fr), is the online digital library of the Bibliothèque nationale de France (BnF).  It is a massive archive where we can access historical and cultural documents for free.
+There is a website named [gallica.bnf](https://gallica.bnf.fr/accueil/en/html/accueil-en), is the online digital library of the Bibliothèque nationale de France (BnF).  It is a massive archive where we can access historical and cultural documents for free.
 There I found the newspaper in a better readable format : [redable newspaper](https://gallica.bnf.fr/ark:/12148/bpt6k5848808/f1.item.r=%22M%20Herriot%20se%20DECLARE%20SOLIDAIRE%20DE%20M%20PAINLEVE%22#)
 Now, we can clearly see a lot of information in front of us :
 
