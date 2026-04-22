@@ -36,7 +36,10 @@ The contents of each file is listed below :
 ```
 Mon cher Édouard,
 
-Aujourd'hui, en rangeant le grenier chez mes grands-parents, je suis tombée sur cette vieille coupure de journal. Ton arrière-grand-père n'avait même pas l'âge de passer le permis quand il s'est distingué ce jour-là. Le benjamin de l'équipe, et certainement pas le moins courageux.
+Aujourd'hui, en rangeant le grenier chez mes grands-parents,
+je suis tombée sur cette vieille coupure de journal.
+Ton arrière-grand-père n'avait même pas l'âge de passer le permis quand il s'est distingué ce jour-là.
+Le benjamin de l'équipe, et certainement pas le moins courageux.
 
 Il serait si fier de te voir sur l'eau à ton tour.
 
@@ -45,7 +48,7 @@ Audette
 ```
 `text document `
 
-Now, 1st we need to gather as much as information we can gather. Which will help us to connect the dots and answer the questions.
+Now, 1st we need to gather as much as information we can gather.Which will help us to connect the dots and answer the questions.
 Lets first translate the text document in english :
 ```
 English translation:
