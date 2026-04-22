@@ -137,7 +137,7 @@ So with the above information I google Dorked, I found something interesting :
 <img width="1043" height="537" alt="image" src="https://github.com/user-
 attachments/assets/04ca6f82-9bc9-4cc7-8390-453c12bb0fa3" />
 
-This (URL)[https://kbcpenmarch.franceserv.com/23-mai-1925-5.html] reports the  `DISASTER OF MAY 23, 1925: ADDITIONAL INFORMATION
+This [URL](https://kbcpenmarch.franceserv.com/23-mai-1925-5.html) reports the  `DISASTER OF MAY 23, 1925: ADDITIONAL INFORMATION
 THE CEREMONY OF AUGUST 15, 1925`
 (Article from the newspaper "La Dépêche de Brest" of August 16, 1925).
 And in it, we come accross the list of crew members, and we found the youngest crew member too, as shown below.
