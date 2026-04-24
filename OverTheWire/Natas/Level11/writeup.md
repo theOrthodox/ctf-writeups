@@ -11,6 +11,7 @@ After login, the web page interface, shown below :
 
 <img width="958" height="368" alt="image" src="https://github.com/user-attachments/assets/25feddd0-dbae-4a40-b9e3-5c5bc40b9f49" />
 The source code as shown below :
+
 ```
  <html>
 <head>
@@ -93,6 +94,5 @@ Background color: <input name=bgcolor value="<?=$data['bgcolor']?>">
 </div>
 </body>
 </html>
+
 ```
-
-
