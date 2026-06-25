@@ -14,7 +14,6 @@
 ## Tools Used
 
 * ffuf
-* gobuster
 * Browser Developer Tools
 
 ## Methodology
