@@ -68,7 +68,7 @@ Ans : 03e1d2b376c37ab3fxxxxxxxxxxx
 
 <img width="755" height="537" alt="image" src="https://github.com/user-attachments/assets/f23c421c-5b42-47b0-8143-0de414e0a565" />
 
-Hencd room completed!!!
+Hence, room completed!!!
 
 
 
