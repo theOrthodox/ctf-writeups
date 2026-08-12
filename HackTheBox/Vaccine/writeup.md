@@ -117,7 +117,8 @@ sudo /bin/vi /etc/postgresql/11/main/pg_hba.conf
 
 
 
-<img width="317" height="77" alt="image" src="https://github.com/user-attachments/assets/f18aa4ec-260b-4992-8bdf-bab1a6ae29b2" />
+<img width="317" height="77" alt="image" src="https://github.com/user-attachments/assets/6268f234-85fc-4cd8-923b-3866240420bb" />
+
 
 ---
 
