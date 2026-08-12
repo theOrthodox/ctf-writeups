@@ -1,7 +1,7 @@
 # Vaccine
 ---
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3de4c6b2-e820-4e87-ba27-eee378bc136d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3de4c6b2-e820-4e87-ba27-eee378bc136d" />
 
 ---
 ### Task 1
