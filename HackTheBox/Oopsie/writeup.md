@@ -13,11 +13,7 @@ What is the path to the directory on the webserver that returns a login page?
 
 Ans : /cdn-cgi/login
 
-
-
-
-
-
+<img width="695" height="881" alt="Screenshot 2026-08-16 171512" src="https://github.com/user-attachments/assets/27e6053f-3c90-43f5-ba76-31325675dfac" />
 
 ---
 ### Task 3
