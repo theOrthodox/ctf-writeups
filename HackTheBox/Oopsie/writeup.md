@@ -26,8 +26,9 @@ Ans : cookie
 
 <img width="1271" height="540" alt="image" src="https://github.com/user-attachments/assets/e04f06c8-6ddd-4024-964c-71f0eff482dc" />
 
+<img width="1205" height="698" alt="image" src="https://github.com/user-attachments/assets/43d35055-0e40-453a-9a57-bc8cc3a28025" />
 
-
+<img width="902" height="495" alt="image" src="https://github.com/user-attachments/assets/0f81d798-5316-48f9-bbec-b2d6eb78adf8" />
 
 ---
 ### Task 4
