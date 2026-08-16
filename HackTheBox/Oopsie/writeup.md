@@ -13,13 +13,21 @@ What is the path to the directory on the webserver that returns a login page?
 
 Ans : /cdn-cgi/login
 
-<img width="695" height="881" alt="Screenshot 2026-08-16 171512" src="https://github.com/user-attachments/assets/27e6053f-3c90-43f5-ba76-31325675dfac" />
+<img width="1281" height="777" alt="image" src="https://github.com/user-attachments/assets/e4e34f9d-5631-4794-83e1-de2ff3f79490" />
+
+
+<img width="495" height="681" alt="Screenshot 2026-08-16 171512" src="https://github.com/user-attachments/assets/27e6053f-3c90-43f5-ba76-31325675dfac" />
 
 ---
 ### Task 3
 What can be modified in Firefox to get access to the upload page?
 
 Ans : cookie
+
+<img width="1271" height="540" alt="image" src="https://github.com/user-attachments/assets/e04f06c8-6ddd-4024-964c-71f0eff482dc" />
+
+
+
 
 ---
 ### Task 4
