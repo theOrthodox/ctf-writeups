@@ -87,12 +87,31 @@ What SUID stands for?
 
 Ans : Set owner User ID
 
---
+---
+
 ### Task 10
 What is the name of the executable being called in an insecure manner?
 
 Ans : cat 
 
-Submit Task
-Submit User Flag
-Submit Root Flag
+<img width="499" height="220" alt="image" src="https://github.com/user-attachments/assets/56adff70-6e7e-4dbc-84c0-29b125fed152" />
+
+---
+### Submit User Flag
+
+
+<img width="594" height="251" alt="Screenshot 2026-08-17 233348" src="https://github.com/user-attachments/assets/50674b29-7feb-47e2-a92d-0fd1a2dd7a59" />
+
+
+
+---
+### Submit Root Flag
+
+<img width="938" height="807" alt="Screenshot 2026-08-17 234635" src="https://github.com/user-attachments/assets/876cedea-5e6f-4dec-bce1-e170b4848a90" />
+ ---
+
+ <img width="806" height="371" alt="image" src="https://github.com/user-attachments/assets/dc1602c5-6326-4920-ad81-015ab9e607b0" />
+
+---
+Thank You !!!
+
