@@ -46,6 +46,9 @@ Ans : /uploads
 
 <img width="972" height="405" alt="image" src="https://github.com/user-attachments/assets/691429a5-15f3-471c-81c0-f6c2401a41bd" />
 
+<img width="948" height="396" alt="image" src="https://github.com/user-attachments/assets/3a2184b6-3be7-4721-90ee-315d5e510e03" />
+
+<img width="945" height="747" alt="image" src="https://github.com/user-attachments/assets/fcf84ad2-8ba2-41f1-b3b9-6b6775d6ad6a" />
 
 ---
 ### Task 6
