@@ -42,6 +42,11 @@ On uploading a file, what directory does that file appear in on the server?
 
 Ans : /uploads
 
+<img width="936" height="438" alt="image" src="https://github.com/user-attachments/assets/93b11263-04b5-4948-9cb3-2e12ca1d01ea" />
+
+<img width="972" height="405" alt="image" src="https://github.com/user-attachments/assets/691429a5-15f3-471c-81c0-f6c2401a41bd" />
+
+
 ---
 ### Task 6
 What is the file that contains the password that is shared with the robert user?
