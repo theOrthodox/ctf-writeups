@@ -108,7 +108,8 @@ Ans : cat
 ### Submit Root Flag
 
 <img width="938" height="807" alt="Screenshot 2026-08-17 234635" src="https://github.com/user-attachments/assets/876cedea-5e6f-4dec-bce1-e170b4848a90" />
- ---
+
+---
 
  <img width="806" height="371" alt="image" src="https://github.com/user-attachments/assets/dc1602c5-6326-4920-ad81-015ab9e607b0" />
  
