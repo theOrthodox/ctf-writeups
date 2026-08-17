@@ -50,11 +50,21 @@ Ans : /uploads
 
 <img width="945" height="747" alt="image" src="https://github.com/user-attachments/assets/fcf84ad2-8ba2-41f1-b3b9-6b6775d6ad6a" />
 
+```
+To stabalize the shell :
+1. python3 -c 'import pty; pty.spawn("/bin/bash")'
+2. Ctrl + Z
+3. stty raw -echo; fg
+4. press enter once or twice
+```
 ---
 ### Task 6
 What is the file that contains the password that is shared with the robert user?
 
 Ans : db.php
+
+
+
 
 ---
 ### Task 7
