@@ -1,5 +1,5 @@
 # Oopsie
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b9681951-cfe9-4996-b042-12e3c1634a55" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b9681951-cfe9-4996-b042-12e3c1634a55" />
 
 ---
 ### Task 1
