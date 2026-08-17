@@ -63,8 +63,7 @@ What is the file that contains the password that is shared with the robert user?
 
 Ans : db.php
 
-
-
+<img width="772" height="397" alt="Screenshot 2026-08-17 223258" src="https://github.com/user-attachments/assets/4fbf8a3e-e8d5-4cb4-a1c5-d85bb1fe6c98" />
 
 ---
 ### Task 7
