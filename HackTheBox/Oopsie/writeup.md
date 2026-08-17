@@ -71,11 +71,15 @@ What executible is run with the option "-group bugtracker" to identify all files
 
 Ans : find
 
+<img width="564" height="107" alt="Screenshot 2026-08-17 224748" src="https://github.com/user-attachments/assets/4d2b6d40-0a7b-46a3-9e9d-a74add733462" />
+
 ---
 ### Task 8
 Regardless of which user starts running the bugtracker executable, what's user privileges will use to run?
 
 Ans : root
+
+<img width="688" height="60" alt="image" src="https://github.com/user-attachments/assets/54890c0f-8301-48b9-9ed7-5d6b2821ce80" />
 
 ---
 ### Task 9
@@ -87,7 +91,7 @@ Ans : Set owner User ID
 ### Task 10
 What is the name of the executable being called in an insecure manner?
 
-Ans : 
+Ans : cat 
 
 Submit Task
 Submit User Flag
