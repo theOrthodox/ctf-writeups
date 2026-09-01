@@ -62,11 +62,25 @@ What is the password for jones discovered during post-exploitation?
 
 ```y27xb3ha!!74GbR```
 
+<img width="1121" height="625" alt="10_login_billing" src="https://github.com/user-attachments/assets/cd96615f-09f4-449e-9eae-970ffebfb7a0" />
+
+<img width="1339" height="486" alt="11_BurpSuite_mail_capture" src="https://github.com/user-attachments/assets/5cc50d7a-4e94-43dc-b272-c76ef2e977cd" />
+
+<img width="1356" height="749" alt="12_mail" src="https://github.com/user-attachments/assets/7009557f-6a9d-4a7b-9596-306c9c54cff4" />
+
+<img width="1221" height="263" alt="13_shell" src="https://github.com/user-attachments/assets/e79112da-2992-4438-a6d4-60991f3f5a63" />
+
+<img width="657" height="537" alt="14_password_jones" src="https://github.com/user-attachments/assets/ae6036f3-ac88-4c67-8469-84834955b0e2" />
+
 ---
 ### Submit User Flag
 Submit the flag located in the jones user's home directory.
 
+<img width="816" height="430" alt="15_ssh_confirm" src="https://github.com/user-attachments/assets/7d48525b-8b92-438c-b8fa-9d8221b2eaa9" />
 
+<img width="633" height="97" alt="16_ssh_jones" src="https://github.com/user-attachments/assets/db885d43-74b0-4f1f-944f-da53ea46172d" />
+
+<img width="328" height="128" alt="17_user txt" src="https://github.com/user-attachments/assets/acb42646-1aa1-4c2d-be23-edbf2f04a7b5" />
 
 ---
 ### Task 9
