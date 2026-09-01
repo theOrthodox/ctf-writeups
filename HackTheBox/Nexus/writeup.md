@@ -105,6 +105,7 @@ Submit the flag located in the root user's home directory.
 <img width="596" height="462" alt="22_root_shell" src="https://github.com/user-attachments/assets/6fb7c6df-af1c-4426-bfa7-f760d6354f94" />
 
 ---
+
 <img width="572" height="286" alt="RootFlag" src="https://github.com/user-attachments/assets/987d39bb-5c00-42ee-8aba-85b1802de7b5" />
 
 ---
