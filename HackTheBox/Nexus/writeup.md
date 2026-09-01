@@ -89,11 +89,23 @@ What systemd timer triggers the template synchronization service?
 
 ```gitea-template-sync.service```
 
+<img width="1295" height="352" alt="18_systemctl_list" src="https://github.com/user-attachments/assets/1478c90d-baa4-4b73-854b-01a2163ac5c4" />
+
+
 ---
 ### Submit Root Flag
 Submit the flag located in the root user's home directory.
 
+<img width="595" height="151" alt="19_contents_sync_services" src="https://github.com/user-attachments/assets/ab353f83-cf38-4323-bec0-18904986b5ae" />
+
+<img width="455" height="225" alt="20_ssh_key_gen" src="https://github.com/user-attachments/assets/57c7504b-ee10-4de8-91ef-41c2ee274f97" />
+
+<img width="497" height="152" alt="21_exploit_ssh_key" src="https://github.com/user-attachments/assets/267cda02-f91f-4a9d-948f-11cd2d8a6c9a" />
+
+<img width="596" height="462" alt="22_root_shell" src="https://github.com/user-attachments/assets/6fb7c6df-af1c-4426-bfa7-f760d6354f94" />
+
 ---
+<img width="572" height="286" alt="RootFlag" src="https://github.com/user-attachments/assets/987d39bb-5c00-42ee-8aba-85b1802de7b5" />
 
 ---
 Thank you!!!
