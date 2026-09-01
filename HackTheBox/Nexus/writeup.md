@@ -64,9 +64,10 @@ What is the password for jones discovered during post-exploitation?
 
 <img width="1121" height="625" alt="10_login_billing" src="https://github.com/user-attachments/assets/cd96615f-09f4-449e-9eae-970ffebfb7a0" />
 
-<img width="1339" height="486" alt="11_BurpSuite_mail_capture" src="https://github.com/user-attachments/assets/5cc50d7a-4e94-43dc-b272-c76ef2e977cd" />
-
 <img width="1356" height="749" alt="12_mail" src="https://github.com/user-attachments/assets/7009557f-6a9d-4a7b-9596-306c9c54cff4" />
+
+<img width="1339" height="486" alt="11_BurpSuite_mail_capture" src="https://github.com/user-attachments/assets/8a2dfdcb-cc12-445d-8f9d-a7b1cd73a1f9" />
+
 
 <img width="1221" height="263" alt="13_shell" src="https://github.com/user-attachments/assets/e79112da-2992-4438-a6d4-60991f3f5a63" />
 
