@@ -69,5 +69,32 @@ we first, to enumerate user:`Engineer`, as shown below :
 
 <img width="856" height="151" alt="image" src="https://github.com/user-attachments/assets/eb817b52-77b9-4fec-aba3-238d8a3dc29e" />
 
+We come to know that `Engineer` is a part of group :
+1. 4(adm) : Grants read access to system logs in /var/log/ (e.g., auth.log, syslog, kern.log) without needing root.
+2. 24(cdrom) : Access to optical media devices. Essentially irrelevant on a modern VM/container/cloud box — leftover from historical Debian group conventions.
+3. 30(dip) : "Dial-up IP" — historically for PPP/dial-up networking, gives access to serial devices and some networking config tools.
+4. 46(plugdev) : Grants access to "pluggable" removable devices (USB drives, etc.) without root, via udev rules.
+5. 101(lxd) : lxd group exists specifically so that non-root users can manage containers without needing sudo for every command — that's the intended convenience.
+
+Found nothing interesting in their, then we found something interesting on runnig the command : `ss -tulnp`
+Here we found interally accessible ports, out of which the node inspector is an interesting one, as shown below :
+
+<img width="748" height="172" alt="14_ss_tulnp" src="https://github.com/user-attachments/assets/6935dd2c-55ab-4478-86c4-a7a4b0bcdf1b" />
+
+<img width="754" height="196" alt="image" src="https://github.com/user-attachments/assets/bea05d11-0c15-454d-81b4-ab1a7fbbe0b0" />
+
+now lets, exploit it :
+
+<img width="1114" height="54" alt="16_node_shell" src="https://github.com/user-attachments/assets/64c49631-7609-4d90-be28-6329c0e0259f" />
+
+on recieving the shell, we got it as a root and got the `root.txt`, as shown below :
+
+
+<img width="646" height="577" alt="root txt" src="https://github.com/user-attachments/assets/ab027f72-75b2-4a6d-a217-c43c11ed82f9" />
+
+---
+
+
+<img width="525" height="295" alt="congo" src="https://github.com/user-attachments/assets/9f795dc7-a477-42ff-bfd6-f27bbe624870" />
 
 
