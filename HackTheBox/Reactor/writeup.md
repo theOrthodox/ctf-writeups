@@ -49,4 +49,25 @@ Now, our first job is to stabalize the shell.
 
 now we got a stabalized shell, lets move on to our next part.
 
-## Privilege Escalation 
+## Credential Grabbing
+
+Inside the shell we found a file named : `reactor.db`, which was written in sqlite version : 3.x and we come to know about it using the `file` command. So, our next step was to gather out information form it, and we found a hash of two users `admin` and `engineer`, as shown below : 
+
+<img width="1053" height="200" alt="image" src="https://github.com/user-attachments/assets/89f6773e-1431-4513-a983-e76348d36767" />
+
+The Engineer's hash were cracked as shown below : 
+
+<img width="951" height="534" alt="11_cracking_hashes" src="https://github.com/user-attachments/assets/38119b7b-5fd1-45a5-8015-a99e4cae17fa" />
+
+Now, we can login in `SSH` using the credentials gained, as shown below and there we get out first flag `user.txt`, as shown below :
+
+<img width="853" height="329" alt="image" src="https://github.com/user-attachments/assets/75c7b71e-bc46-49ea-9df4-fa1a32366cdc" />
+
+### Privilege Escalation 
+
+we first, to enumerate user:`Engineer`, as shown below :
+
+<img width="856" height="151" alt="image" src="https://github.com/user-attachments/assets/eb817b52-77b9-4fec-aba3-238d8a3dc29e" />
+
+
+
