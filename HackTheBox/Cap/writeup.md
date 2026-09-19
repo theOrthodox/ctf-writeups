@@ -76,7 +76,6 @@ What is the full path to the binary on this machine has special capabilities tha
 
 <img width="890" height="83" alt="09_get_cap" src="https://github.com/user-attachments/assets/c90e844c-5f81-4507-9572-7f14140b3ad9" />
 
-<img width="687" height="82" alt="10_root txt" src="https://github.com/user-attachments/assets/611cb394-e9f8-40fa-b743-808285cb9ff5" />
 
 
 ---
